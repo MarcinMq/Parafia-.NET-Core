@@ -1,0 +1,32 @@
+﻿@model List<ParafiaApk.Models.Msza>
+
+<h2>Zarządzanie Mszami</h2>
+
+<!-- PRZYCISK DODAWANIA MSZY -->
+<a asp-action="DodajMsze" class="btn btn-success mb-3">Dodaj Mszę</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Data</th>
+            <th>Godzina</th>
+            <th>Rodzaj</th>
+            <th>Ksiądz</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var msza in Model)
+        {
+            <tr>
+                <td>@msza.Data.ToString("yyyy-MM-dd")</td>
+                <td>@msza.Godzina</td>
+                <td>@msza.Rodzaj</td>
+                <td>@(msza.Ksiadz != null ? msza.Ksiadz.Imie + " " + msza.Ksiadz.Nazwisko : "Nie przypisano")</td>
+                <td>
+                    <a asp-action="EdytujMsze" asp-route-id="@msza.IdMsza" class="btn btn-primary">Edytuj</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,24 @@
+﻿@model ParafiaApk.Models.Ogloszenie
+
+@{
+    ViewData["Title"] = "Dodaj Ogłoszenie";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center mb-4">Dodaj nowe ogłoszenie</h2>
+
+    <form asp-action="Dodaj" method="post">
+        <div class="mb-3">
+            <label for="Tytul" class="form-label">Tytuł</label>
+            <input type="text" id="Tytul" name="Tytul" class="form-control" required maxlength="100" />
+        </div>
+
+        <div class="mb-3">
+            <label for="Tresc" class="form-label">Treść</label>
+            <textarea id="Tresc" name="Tresc" class="form-control" rows="5" required></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Dodaj</button>
+        <a asp-action="Lista" class="btn btn-secondary">Powrót</a>
+    </form>
+</div>

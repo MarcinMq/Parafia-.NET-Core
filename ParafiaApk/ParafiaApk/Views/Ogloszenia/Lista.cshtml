@@ -1,0 +1,35 @@
+﻿@model IEnumerable<ParafiaApk.Models.Ogloszenie>
+
+@{
+    ViewData["Title"] = "Lista Ogłoszeń";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Ogłoszenia Parafialne</h2>
+
+    <!-- PRZYCISK SORTOWANIA -->
+    <a asp-action="Lista" asp-route-sortOrder="@ViewBag.SortParam" class="btn btn-primary mb-3">
+        Sortuj: @(ViewBag.SortParam == "desc" ? "Najstarsze" : "Najnowsze")
+    </a>
+
+    @if (Model != null && Model.Any())
+    {
+        <div class="list-group">
+            @foreach (var ogloszenie in Model)
+            {
+                <div class="list-group-item mb-3 shadow-sm">
+                    <h4 class="mb-2">@ogloszenie.Tytul</h4>
+                    <p>@ogloszenie.Tresc</p>
+                    <small class="text-muted">Dodano: @ogloszenie.DataUtworzenia.ToString("yyyy-MM-dd HH:mm")</small>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info text-center">
+            Brak ogłoszeń do wyświetlenia.
+        </div>
+    }
+</div>

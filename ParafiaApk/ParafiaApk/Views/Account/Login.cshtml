@@ -1,0 +1,47 @@
+﻿@model ParafiaApk.ViewModels.LoginViewModel
+
+<h2 style="text-align: center;">Logowanie</h2>
+
+<div style="max-width: 400px; margin: 0 auto; padding: 20px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <form asp-action="Login" method="post">
+        <!-- Pole Email -->
+        <div style="margin-bottom: 15px;">
+            <label asp-for="Email" style="display: block; font-weight: bold; margin-bottom: 5px;">Email</label>
+            <input asp-for="Email" type="email" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" />
+            <span asp-validation-for="Email" style="color: red;"></span>
+        </div>
+
+        <!-- Pole Hasło -->
+        <div style="margin-bottom: 15px;">
+            <label asp-for="Password" style="display: block; font-weight: bold; margin-bottom: 5px;">Hasło</label>
+            <input asp-for="Password" type="password" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" />
+            <span asp-validation-for="Password" style="color: red;"></span>
+        </div>
+
+        <!-- Pole Zapamiętaj mnie -->
+        <div style="margin-bottom: 15px; display: flex; align-items: center;">
+            <input asp-for="RememberMe" type="checkbox" style="margin-right: 10px;" />
+            <label asp-for="RememberMe" style="font-weight: bold;">Zapamiętaj mnie</label>
+        </div>
+
+        <!-- Komunikat błędu -->
+        @if (!ViewData.ModelState.IsValid)
+        {
+            <p style="color: red; text-align: center;">Błędny login lub hasło.</p>
+        }
+
+        <!-- Przycisk Login -->
+        <div style="text-align: center; margin-bottom: 10px;">
+            <button type="submit" style="background-color: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+                Zaloguj się
+            </button>
+        </div>
+    </form>
+
+    <!-- Link Zarejestruj się -->
+    <div style="text-align: center;">
+        <a asp-controller="Account" asp-action="Register" style="color: #007bff; text-decoration: none; font-weight: bold;">
+            Zarejestruj się
+        </a>
+    </div>
+</div>

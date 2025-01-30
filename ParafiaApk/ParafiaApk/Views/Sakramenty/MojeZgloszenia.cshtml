@@ -1,0 +1,36 @@
+﻿@model IEnumerable<ParafiaApk.Models.Sakrament>
+
+<h2>Moje Zgłoszenia Sakramentów</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Rodzaj</th>
+            <th>Data</th>
+            <th>Ksiądz</th>
+            <th>Status</th> <!-- Dodane pole statusu -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sakrament in Model)
+        {
+            <tr>
+                <td>@sakrament.Rodzaj</td>
+                <td>@sakrament.Data.ToString("yyyy-MM-dd HH:mm")</td>
+                <td>
+                    @(sakrament.Ksiadz != null ? sakrament.Ksiadz.Imie + " " + sakrament.Ksiadz.Nazwisko : "Nie przypisano")
+                </td>
+                <td>
+                    @if (sakrament.Status == "Zatwierdzone")
+                    {
+                        <span style="color: green;">Zatwierdzone</span>
+                    }
+                    else
+                    {
+                        <span style="color: red;">Niezatwierdzone</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

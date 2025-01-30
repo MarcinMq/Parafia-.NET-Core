@@ -1,0 +1,30 @@
+﻿@model ParafiaApk.Models.Sakrament
+
+<h2>Zgłoś Sakrament</h2>
+
+<form asp-action="ZglosSakrament" method="post" class="form">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label for="Rodzaj">Rodzaj Sakramentu</label>
+        <input type="text" id="Rodzaj" name="Rodzaj" class="form-control" value="@Model?.Rodzaj" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Data">Data Sakramentu</label>
+        <input type="datetime-local" id="Data" name="Data" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label for="IdKsiadz">Wybierz Księdza</label>
+        <select id="IdKsiadz" name="IdKsiadz" class="form-control">
+            <option value="">Brak (ksiądz zostanie przypisany później)</option>
+            @foreach (var ksiadz in ViewBag.Ksieza)
+            {
+                <option value="@ksiadz.IdKsiadz">@ksiadz.Imie @ksiadz.Nazwisko</option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Zgłoś</button>
+</form>

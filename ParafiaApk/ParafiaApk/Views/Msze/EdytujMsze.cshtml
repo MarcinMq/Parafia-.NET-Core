@@ -1,0 +1,35 @@
+﻿@model ParafiaApk.Models.Msza
+
+<h2>Edytuj Mszę</h2>
+
+<form asp-action="EdytujMsze" method="post">
+    <input type="hidden" asp-for="IdMsza" />
+
+    <div class="form-group">
+        <label asp-for="Data"></label>
+        <input asp-for="Data" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Godzina"></label>
+        <input asp-for="Godzina" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Rodzaj"></label>
+        <input asp-for="Rodzaj" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Ksiądz</label>
+        <select asp-for="IdKsiadz" class="form-control">
+            <option value="">-- Wybierz księdza --</option>
+            @foreach (var ksiadz in ViewBag.Ksieza)
+            {
+                <option value="@ksiadz.IdKsiadz">@ksiadz.Imie @ksiadz.Nazwisko</option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Zapisz</button>
+</form>

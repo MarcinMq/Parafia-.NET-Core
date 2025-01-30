@@ -1,0 +1,50 @@
+﻿@model IEnumerable<ParafiaApk.Models.Sakrament>
+
+<h2>Zarządzanie Zgłoszeniami Sakramentów</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Rodzaj</th>
+            <th>Data</th>
+            <th>Parafianin</th>
+            <th>Ksiądz</th>
+            <th>Status</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sakrament in Model)
+        {
+            <tr>
+                <td>@sakrament.Rodzaj</td>
+                <td>@sakrament.Data.ToString("yyyy-MM-dd HH:mm")</td>
+                <td>
+                    @(ViewBag.Parafianie.ContainsKey(sakrament.IdParafianin) ? ViewBag.Parafianie[sakrament.IdParafianin] : "Nieznany")
+                </td>
+                <td>
+                    @(ViewBag.Ksieza.ContainsKey(sakrament.IdKsiadz) ? ViewBag.Ksieza[sakrament.IdKsiadz] : "Nie przypisano")
+                </td>
+                <td>
+                    @if (sakrament.Status == "Zatwierdzone")
+                    {
+                        <span class="text-success">Zatwierdzone</span>
+                    }
+                    else
+                    {
+                        <span class="text-danger">Niezatwierdzone</span>
+                    }
+                </td>
+                <td>
+                    @if (sakrament.Status != "Zatwierdzone")
+                    {
+                        <form asp-action="ZatwierdzSakrament" method="post">
+                            <input type="hidden" name="id" value="@sakrament.IdSakrament" />
+                            <button type="submit" class="btn btn-success">Zatwierdź</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,19 @@
+﻿@model ParafiaApk.Models.Sakrament
+
+<h2>Przypisz Księdza</h2>
+
+<form asp-action="PrzypiszKsiadz" method="post">
+    <input type="hidden" name="id" value="@Model.IdSakrament" />
+
+    <div class="form-group">
+        <label for="IdKsiadz">Wybierz Księdza</label>
+        <select id="IdKsiadz" name="IdKsiadz" class="form-control">
+            @foreach (var ksiadz in ViewBag.Ksieża)
+            {
+                <option value="@ksiadz.IdKsiadz">@ksiadz.Imie @ksiadz.Nazwisko</option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-success mt-3">Zapisz</button>
+</form>

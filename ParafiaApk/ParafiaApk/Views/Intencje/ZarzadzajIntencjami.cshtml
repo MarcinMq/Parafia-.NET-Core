@@ -1,0 +1,56 @@
+﻿@model IEnumerable<ParafiaApk.Models.Intencja>
+
+<h2>Zarządzanie Intencjami</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Opis</th>
+            <th>Data Mszy</th>
+            <th>Parafianin</th>
+            <th>Status</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var intencja in Model)
+        {
+            <tr>
+                <td>@intencja.Opis</td>
+                <td>
+                    @if (ViewBag.Msze != null && ViewBag.Msze.ContainsKey(intencja.IdMsza))
+                    {
+                        var msza = ViewBag.Msze[intencja.IdMsza];
+                        <span>@msza.Data.ToString("yyyy-MM-dd")} o @msza.Godzina</span>
+                    }
+                    else
+                    {
+                        <span>Brak informacji</span>
+                    }
+                </td>
+                <td>
+                    @if (ViewBag.Parafianie != null && ViewBag.Parafianie.ContainsKey(intencja.IdParafianin))
+                    {
+                        var parafianin = ViewBag.Parafianie[intencja.IdParafianin];
+                        <span>@parafianin.Imie @parafianin.Nazwisko</span>
+                    }
+                    else
+                    {
+                        <span>Nieznany</span>
+                    }
+                </td>
+                <td>@intencja.Status</td>
+                <td>
+                    @if (intencja.Status == "Oczekująca")
+                    {
+                        <form asp-action="ZatwierdzIntencje" method="post" style="display: inline;">
+                            @Html.AntiForgeryToken()
+                            <input type="hidden" name="id" value="@intencja.IdIntencja" />
+                            <button type="submit" class="btn btn-success">Zatwierdź</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

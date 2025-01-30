@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ParafiaApk.Models.Intencja>
+@{
+    var msze = ViewBag.Msze as Dictionary<int, ParafiaApk.Models.Msza>;
+}
+
+<h2>Moje Intencje</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Opis</th>
+            <th>Data Mszy</th>
+            <th>Godzina Mszy</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var intencja in Model)
+        {
+            <tr>
+                <td>@intencja.Opis</td>
+                <td>
+                    @if (msze.ContainsKey(intencja.IdMsza))
+                    {
+                        @msze[intencja.IdMsza].Data.ToString("yyyy-MM-dd")
+                    }
+                    else
+                    {
+                        <span>Brak informacji</span>
+                    }
+                </td>
+                <td>
+                    @if (msze.ContainsKey(intencja.IdMsza))
+                    {
+                        @msze[intencja.IdMsza].Godzina
+                    }
+                    else
+                    {
+                        <span>Brak informacji</span>
+                    }
+                </td>
+                <td>@intencja.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>

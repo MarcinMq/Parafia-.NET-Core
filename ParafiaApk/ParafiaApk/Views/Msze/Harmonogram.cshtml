@@ -1,0 +1,31 @@
+﻿@{
+    string sortOrder = ViewBag.DateSortParm as string;
+}
+
+<h2>Harmonogram Mszy</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a asp-action="Harmonogram" asp-route-sortOrder="@ViewBag.DateSortParm">
+                    Data @(sortOrder == "desc" ? "🔽" : "🔼")
+                </a>
+            </th>
+            <th>Godzina</th>
+            <th>Rodzaj</th>
+            <th>Ksiądz</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var msza in Model)
+        {
+            <tr>
+                <td>@msza.Data.ToString("yyyy-MM-dd")</td>
+                <td>@msza.Godzina</td>
+                <td>@msza.Rodzaj</td>
+                <td>@(msza.Ksiadz != null ? msza.Ksiadz.Imie + " " + msza.Ksiadz.Nazwisko : "Nie przypisano")</td>
+            </tr>
+        }
+    </tbody>
+</table>

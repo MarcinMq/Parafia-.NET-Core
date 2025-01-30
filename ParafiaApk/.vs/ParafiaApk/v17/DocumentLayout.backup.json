@@ -1,0 +1,675 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\controllers\\parafianincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\controllers\\parafianincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\controllers\\sakramentycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\controllers\\sakramentycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\controllers\\ogloszeniacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\controllers\\ogloszeniacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\controllers\\intencjecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\controllers\\intencjecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\ogloszenia\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\ogloszenia\\lista.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\msze\\dodajmsze.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\msze\\dodajmsze.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\msze\\zarzadzajmsze.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\msze\\zarzadzajmsze.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\msze\\harmonogram.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\msze\\harmonogram.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\controllers\\mszecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\controllers\\mszecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\msze\\edytujmsze.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\msze\\edytujmsze.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\models\\msza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\models\\msza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\sakramenty\\mojezgloszenia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\sakramenty\\mojezgloszenia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\models\\sakrament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\models\\sakrament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\sakramenty\\zarzadzajzgloszeniami.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\sakramenty\\zarzadzajzgloszeniami.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\sakramenty\\przypiszksiadz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\sakramenty\\przypiszksiadz.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\sakramenty\\zglossakrament.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\sakramenty\\zglossakrament.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\models\\ksiadz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\models\\ksiadz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\intencje\\mojeintencje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\intencje\\mojeintencje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\intencje\\zarzadzajintencjami.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\intencje\\zarzadzajintencjami.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\models\\intencja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\models\\intencja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\models\\parafianin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\models\\parafianin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\ksiadz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\ksiadz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\intencje\\zglosintencje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\intencje\\zglosintencje.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\parafianin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\parafianin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\models\\ogloszenie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\models\\ogloszenie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\ogloszenia\\dodaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\ogloszenia\\dodaj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\controllers\\ksiadzcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\controllers\\ksiadzcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marma\\source\\repos\\ParafiaApk\\ParafiaApk\\Migrations\\20250127185146_halo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\test.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|c:\\users\\marma\\downloads\\parafiaapk\\parafiaapk\\parafiaapk\\migrations\\20250128200231_migracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E2BF9B-7CD7-490A-9787-7DAC6F6A7B45}|ParafiaApk\\ParafiaApk.csproj|solutionrelative:parafiaapk\\migrations\\20250128200231_migracja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Harmonogram.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Msze\\Harmonogram.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Msze\\Harmonogram.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Msze\\Harmonogram.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Msze\\Harmonogram.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T10:33:28.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ParafiaApk\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T18:15:53.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IntencjeController.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Controllers\\IntencjeController.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Controllers\\IntencjeController.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Controllers\\IntencjeController.cs",
+              "RelativeToolTip": "ParafiaApk\\Controllers\\IntencjeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:03:44.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ParafiaApk\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:19:45.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SakramentyController.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Controllers\\SakramentyController.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Controllers\\SakramentyController.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Controllers\\SakramentyController.cs",
+              "RelativeToolTip": "ParafiaApk\\Controllers\\SakramentyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:30:13.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParafianinController.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Controllers\\ParafianinController.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Controllers\\ParafianinController.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Controllers\\ParafianinController.cs",
+              "RelativeToolTip": "ParafiaApk\\Controllers\\ParafianinController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T11:27:09.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EdytujMsze.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Msze\\EdytujMsze.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Msze\\EdytujMsze.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Msze\\EdytujMsze.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Msze\\EdytujMsze.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T10:34:53.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lista.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Ogloszenia\\Lista.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Ogloszenia\\Lista.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Ogloszenia\\Lista.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Ogloszenia\\Lista.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T10:02:26.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OgloszeniaController.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Controllers\\OgloszeniaController.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Controllers\\OgloszeniaController.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Controllers\\OgloszeniaController.cs",
+              "RelativeToolTip": "ParafiaApk\\Controllers\\OgloszeniaController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:07:17.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DodajMsze.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Msze\\DodajMsze.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Msze\\DodajMsze.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Msze\\DodajMsze.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Msze\\DodajMsze.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T10:34:29.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\appsettings.json",
+              "RelativeDocumentMoniker": "ParafiaApk\\appsettings.json",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\appsettings.json",
+              "RelativeToolTip": "ParafiaApk\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T14:15:42.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ZarzadzajMsze.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Msze\\ZarzadzajMsze.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Msze\\ZarzadzajMsze.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Msze\\ZarzadzajMsze.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Msze\\ZarzadzajMsze.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T10:33:53.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MszeController.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Controllers\\MszeController.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Controllers\\MszeController.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Controllers\\MszeController.cs",
+              "RelativeToolTip": "ParafiaApk\\Controllers\\MszeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T10:31:40.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Msza.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\Msza.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Models\\Msza.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\Msza.cs",
+              "RelativeToolTip": "ParafiaApk\\Models\\Msza.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:12:41.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250128200231_migracja.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Migrations\\20250128200231_migracja.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Migrations\\20250128200231_migracja.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Migrations\\20250128200231_migracja.cs",
+              "RelativeToolTip": "ParafiaApk\\Migrations\\20250128200231_migracja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:02:32.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MojeZgloszenia.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Sakramenty\\MojeZgloszenia.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Sakramenty\\MojeZgloszenia.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Sakramenty\\MojeZgloszenia.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Sakramenty\\MojeZgloszenia.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T11:33:17.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Sakrament.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\Sakrament.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Models\\Sakrament.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\Sakrament.cs",
+              "RelativeToolTip": "ParafiaApk\\Models\\Sakrament.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:12:32.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PrzypiszKsiadz.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Sakramenty\\PrzypiszKsiadz.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Sakramenty\\PrzypiszKsiadz.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Sakramenty\\PrzypiszKsiadz.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Sakramenty\\PrzypiszKsiadz.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T11:52:52.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ZarzadzajZgloszeniami.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Sakramenty\\ZarzadzajZgloszeniami.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Sakramenty\\ZarzadzajZgloszeniami.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Sakramenty\\ZarzadzajZgloszeniami.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Sakramenty\\ZarzadzajZgloszeniami.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvzIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T11:33:44.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ZglosSakrament.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Sakramenty\\ZglosSakrament.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Sakramenty\\ZglosSakrament.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Sakramenty\\ZglosSakrament.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Sakramenty\\ZglosSakrament.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T11:41:43.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Ksiadz.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\Ksiadz.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Models\\Ksiadz.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\Ksiadz.cs",
+              "RelativeToolTip": "ParafiaApk\\Models\\Ksiadz.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:06:24.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MojeIntencje.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Intencje\\MojeIntencje.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Intencje\\MojeIntencje.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Intencje\\MojeIntencje.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Intencje\\MojeIntencje.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T15:09:59.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCMAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T15:42:06.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Parafianin.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\Parafianin.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Models\\Parafianin.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\Parafianin.cs",
+              "RelativeToolTip": "ParafiaApk\\Models\\Parafianin.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:12:20.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Intencja.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\Intencja.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Models\\Intencja.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\Intencja.cs",
+              "RelativeToolTip": "ParafiaApk\\Models\\Intencja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:13:03.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ZarzadzajIntencjami.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Intencje\\ZarzadzajIntencjami.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Intencje\\ZarzadzajIntencjami.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Intencje\\ZarzadzajIntencjami.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Intencje\\ZarzadzajIntencjami.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T15:08:50.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Ksiadz\\Index.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Ksiadz\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Ksiadz\\Index.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Ksiadz\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T17:00:52.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ZglosIntencje.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Intencje\\ZglosIntencje.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Intencje\\ZglosIntencje.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Intencje\\ZglosIntencje.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Intencje\\ZglosIntencje.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T15:08:31.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Parafianin\\Index.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Parafianin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Parafianin\\Index.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Parafianin\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T16:59:17.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ParafiaApk\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:26:25.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Dodaj.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Ogloszenia\\Dodaj.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Ogloszenia\\Dodaj.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Ogloszenia\\Dodaj.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Ogloszenia\\Dodaj.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T10:15:22.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T17:32:24.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Ogloszenie.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\Ogloszenie.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Models\\Ogloszenie.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\Ogloszenie.cs",
+              "RelativeToolTip": "ParafiaApk\\Models\\Ogloszenie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:13:14.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250127185146_halo.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\source\\repos\\ParafiaApk\\ParafiaApk\\Migrations\\20250127185146_halo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\ParafiaApk\\ParafiaApk\\Migrations\\20250127185146_halo.cs",
+              "ToolTip": "C:\\Users\\marma\\source\\repos\\ParafiaApk\\ParafiaApk\\Migrations\\20250127185146_halo.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\ParafiaApk\\ParafiaApk\\Migrations\\20250127185146_halo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T18:51:46.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "KsiadzController.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Controllers\\KsiadzController.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Controllers\\KsiadzController.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Controllers\\KsiadzController.cs",
+              "RelativeToolTip": "ParafiaApk\\Controllers\\KsiadzController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:04:05.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "ParafiaApk\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:47:04.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Program.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Program.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Program.cs",
+              "RelativeToolTip": "ParafiaApk\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:19:26.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ParafiaApk\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "ParafiaApk\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T14:47:25.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Test.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Test.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Test.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Test.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Test.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T14:39:21.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T14:50:50.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ParafiaApk\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\marma\\Downloads\\ParafiaApk\\ParafiaApk\\ParafiaApk\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ParafiaApk\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T14:51:10.02Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

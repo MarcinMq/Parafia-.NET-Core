@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Strona Główna";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="d-flex justify-content-center align-items-center vh-100 bg-light">
+    <div class="text-center">
+        <h1 class="display-4">Witaj na stronie parafii Św. Jana w Krośnie</h1>
+        <p class="lead mt-3">Zaloguj się lub zarejestruj, aby kontynuować.</p>
+        <div class="mt-4">
+            <a class="btn btn-primary btn-lg me-2" asp-controller="Account" asp-action="Login">Zaloguj się</a>
+            <a class="btn btn-secondary btn-lg" asp-controller="Account" asp-action="Register">Zarejestruj się</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,25 @@
+﻿@model ParafiaApk.Models.Intencja
+
+<h2>Zgłoś Intencję Mszalną</h2>
+
+<form asp-action="ZglosIntencje" method="post" class="form">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label for="Opis">Opis Intencji</label>
+        <textarea id="Opis" name="Opis" class="form-control" rows="3" required>@Model?.Opis</textarea>
+    </div>
+
+    <div class="form-group">
+        <label for="IdMsza">Wybierz Mszę</label>
+        <select id="IdMsza" name="IdMsza" class="form-control" required>
+            <option value="" disabled selected>Wybierz</option>
+            @foreach (var msza in (IEnumerable<ParafiaApk.Models.Msza>)ViewBag.Msze)
+            {
+                <option value="@msza.IdMsza">@msza.Data.ToString("yyyy-MM-dd")} o @msza.Godzina</option>
+            }
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-3">Zgłoś Intencję</button>
+</form>

@@ -1,0 +1,56 @@
+﻿@model ParafiaApk.Models.Ksiadz
+
+@{
+    ViewData["Title"] = "Panel Księdza";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    body {
+        overflow: hidden; /* Disable scrolling */
+    }
+</style>
+
+<div class="d-flex justify-content-center align-items-center vh-100 bg-light">
+    <div class="card shadow-lg d-flex flex-column justify-content-center" style="width: 60rem; border-radius: 1rem;">
+        <div class="card-body d-flex">
+
+            <!-- Kolumna z informacjami o profilu -->
+            <div class="w-50 pe-4">
+                <h2 class="card-title text-center mb-4">Informacje o profilu</h2>
+                <div class="mb-3">
+                    <strong>Imię:</strong> @Model.Imie
+                </div>
+                <div class="mb-3">
+                    <strong>Nazwisko:</strong> @Model.Nazwisko
+                </div>
+                <div class="mb-3">
+                    <strong>E-Mail:</strong> @Model.Email
+                </div>
+                <div class="mb-3">
+                    <strong>Telefon:</strong> @Model.Telefon
+                </div>
+                <div class="mb-3">
+                    <strong>Parafia:</strong> @Model.Parafia
+                </div>
+                <div class="mb-3">
+                    <strong>Stanowisko:</strong> @Model.Stanowisko
+                </div>
+                <div class="mb-4">
+                    <strong>Rola:</strong> Ksiądz
+                </div>
+            </div>
+
+            <!-- Kolumna z przyciskami akcji -->
+            <div class="w-50 ps-4 border-start">
+                <h2 class="card-title text-center mb-4">Akcje</h2>
+                <div class="d-grid gap-3">
+                    <a class="btn btn-primary" asp-controller="Msze" asp-action="ZarzadzajMsze">Zarządzaj Mszami</a>
+                    <a class="btn btn-primary" asp-controller="Intencje" asp-action="ZarzadzajIntencjami">Zarządzaj Zgłoszeniami Intencji</a>
+                    <a class="btn btn-primary" asp-controller="Sakramenty" asp-action="ZarzadzajZgloszeniami">Zarządzaj Zgłoszeniami Sakramentów</a>
+                    <a class="btn btn-primary" asp-controller="Ogloszenia" asp-action="Dodaj">Publikuj Ogłoszenia</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

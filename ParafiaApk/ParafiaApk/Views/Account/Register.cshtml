@@ -1,0 +1,59 @@
+﻿@model ParafiaApk.ViewModels.RegisterViewModel
+
+<h2 style="text-align: center;">Rejestracja</h2>
+
+<div style="max-width: 400px; margin: 0 auto; padding: 20px; border: 1px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <form asp-action="Register" method="post">
+        <!-- Podsumowanie błędów -->
+        <div asp-validation-summary="All" class="text-danger" style="margin-bottom: 15px;"></div>
+
+        <!-- Pole Email -->
+        <div style="margin-bottom: 15px;">
+            <label asp-for="Email" style="display: block; font-weight: bold; margin-bottom: 5px;">Email</label>
+            <input asp-for="Email" type="email" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" />
+            <span asp-validation-for="Email" class="text-danger" style="font-size: 12px;"></span>
+        </div>
+
+        <!-- Pole Hasło -->
+        <div style="margin-bottom: 15px;">
+            <label asp-for="Password" style="display: block; font-weight: bold; margin-bottom: 5px;">Hasło</label>
+            <input asp-for="Password" type="password" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" />
+            <span asp-validation-for="Password" class="text-danger" style="font-size: 12px;"></span>
+        </div>
+
+        <!-- Pole Potwierdź hasło -->
+        <div style="margin-bottom: 15px;">
+            <label asp-for="ConfirmPassword" style="display: block; font-weight: bold; margin-bottom: 5px;">Potwierdź hasło</label>
+            <input asp-for="ConfirmPassword" type="password" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" />
+            <span asp-validation-for="ConfirmPassword" class="text-danger" style="font-size: 12px;"></span>
+        </div>
+
+        <!-- Pole Imię -->
+        <div style="margin-bottom: 15px;">
+            <label asp-for="Imie" style="display: block; font-weight: bold; margin-bottom: 5px;">Imię</label>
+            <input asp-for="Imie" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" />
+            <span asp-validation-for="Imie" class="text-danger" style="font-size: 12px;"></span>
+        </div>
+
+        <!-- Pole Nazwisko -->
+        <div style="margin-bottom: 15px;">
+            <label asp-for="Nazwisko" style="display: block; font-weight: bold; margin-bottom: 5px;">Nazwisko</label>
+            <input asp-for="Nazwisko" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" />
+            <span asp-validation-for="Nazwisko" class="text-danger" style="font-size: 12px;"></span>
+        </div>
+
+        <!-- Pole Numer telefonu -->
+        <div style="margin-bottom: 15px;">
+            <label asp-for="PhoneNumber" style="display: block; font-weight: bold; margin-bottom: 5px;">Numer telefonu</label>
+            <input asp-for="PhoneNumber" type="tel" style="width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;" />
+            <span asp-validation-for="PhoneNumber" class="text-danger" style="font-size: 12px;"></span>
+        </div>
+
+        <!-- Przycisk Zarejestruj się -->
+        <div style="text-align: center; margin-top: 20px;">
+            <button type="submit" style="background-color: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+                Zarejestruj się
+            </button>
+        </div>
+    </form>
+</div>
